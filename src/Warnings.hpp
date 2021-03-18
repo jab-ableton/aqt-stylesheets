@@ -98,6 +98,7 @@ THE SOFTWARE.
     _Pragma("clang diagnostic ignored \"-Wdisabled-macro-expansion\"") \
     _Pragma("clang diagnostic ignored \"-Wdocumentation-unknown-command\"") \
     _Pragma("clang diagnostic ignored \"-Wdocumentation\"") \
+    _Pragma("clang diagnostic ignored \"-Wduplicate-enum\"") \
     _Pragma("clang diagnostic ignored \"-Wexit-time-destructors\"") \
     _Pragma("clang diagnostic ignored \"-Wextra-semi\"") \
     _Pragma("clang diagnostic ignored \"-Wfloat-equal\"") \
